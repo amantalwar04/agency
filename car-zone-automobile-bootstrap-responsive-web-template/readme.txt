@@ -2,7 +2,7 @@ Note
 ====
 Car Zone Automobile Bootstrap Responsive Web Template
  
-Author URI: http://webthemez.com/
+Author URI: http://ATWish.com/
 Description: 
 Car Zone is a AutoMobile responsive web template can be used as a website for Car Wash, Car Service, Car care, Car Showrooms, Car Spare and Accessories showrooms. This template is developed on bootstrap framework and supports all browsers and devices like Mobile phones and Tabs.
 

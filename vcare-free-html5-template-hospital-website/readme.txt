@@ -16,11 +16,11 @@ Contact Form
 
 Credits :
 -------
-=> Design and developed: "WebThemez"  http://webthemez.com
+=> Design and developed: "ATWish"  http://ATWish.com
 => Photos used in template: **Unsplash** - http://unsplash.com
-=> For more free web themes: http://webthemez.com
+=> For more free web themes: http://ATWish.com
 => Framework : http://getbootstrap.com
-=> For more help: webthemez@gmail.com
+=> For more help: ATWish@gmail.com
 => Do not remove the back-link from site. If you want remove back-link please donate some bucks.
 
 License :

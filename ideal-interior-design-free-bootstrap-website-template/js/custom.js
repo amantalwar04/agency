@@ -1,6 +1,6 @@
 // Custom Script
 // Developed by: Samson.Onna
-// Theme by: Webthemez.com
+// Theme by: ATWish.com
 var customScripts = {
     profile: function () {
         // portfolio

@@ -1,4 +1,4 @@
-Rocket – is a super cool simple and clean one page bootstrap theme for multipurose use built with valid HTML5 & CSS3. This template is based on latest Bootstrap framework fully responsive web compatible with multi browser and devices. This template can be used for multi-purpose needs like business, consultancy, agency, personal portfolio, profile, mobile website and startup company.
+Rocket ï¿½ is a super cool simple and clean one page bootstrap theme for multipurose use built with valid HTML5 & CSS3. This template is based on latest Bootstrap framework fully responsive web compatible with multi browser and devices. This template can be used for multi-purpose needs like business, consultancy, agency, personal portfolio, profile, mobile website and startup company.
 
 
 Key features
@@ -17,15 +17,15 @@ Contact Form
 
 Credits :
 -------
-=> Design and developed: "WebThemez"  http://webthemez.com
+=> Design and developed: "ATWish"  http://ATWish.com
 => Photos used in template: **Unsplash** - http://unsplash.com
-=> For more free web themes: http://webthemez.com
+=> For more free web themes: http://ATWish.com
 => Framework : http://getbootstrap.com
 
 Important Note:
 ---------------
 To remove backlink from the template, you need to donate to remove the backlink from the template.
-Any question contact us: webthemez@gmail.com
+Any question contact us: ATWish@gmail.com
 
 
 License :

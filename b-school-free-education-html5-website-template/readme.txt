@@ -2,9 +2,9 @@ Note:
 ====
 
 Responsive, Bootstrap Mobile First Web Template 
-Author URI: http://webthemez.com/
+Author URI: http://ATWish.com/
 
-B-School is a Educational Responsive web design template with a modern style theme from webthemez. This template can be used for multipurpose, Educational Institutes, Collage's, Schools, Training Institutes and many more. This theme is easy to customize as per you requirements and this is developed on latest technologies like HTML5, Bootstrap 3.3.1. This is fully Responsive web site.  
+B-School is a Educational Responsive web design template with a modern style theme from ATWish. This template can be used for multipurpose, Educational Institutes, Collage's, Schools, Training Institutes and many more. This theme is easy to customize as per you requirements and this is developed on latest technologies like HTML5, Bootstrap 3.3.1. This is fully Responsive web site.  
  
 
 Credits

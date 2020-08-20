@@ -20,9 +20,9 @@ Fully Customizable
 
 Credits :
 -------
-=> Design and developed: "WebThemez"  http://webthemez.com  
+=> Design and developed: "ATWish"  http://ATWish.com  
 => Framework : http://getbootstrap.com
-=> webthemez@gmail.com
+=> ATWish@gmail.com
 => Donate and remove back link in the footer
 
 License :

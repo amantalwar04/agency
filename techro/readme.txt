@@ -11,9 +11,9 @@ Features :
 
 Credits :
 -------
-=> Design and developed: "WebThemez"  http://webthemez.com
+=> Design and developed: "ATWish"  http://ATWish.com
 => Photos used in template: **Unsplash** - http://unsplash.com
-=> For more free web themes: http://webthemez.com
+=> For more free web themes: http://ATWish.com
 => Framework : http://getbootstrap.com
 => Image: https://www.flickr.com/photos/ter-burg/9216004446/sizes/l/
 

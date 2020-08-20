@@ -1,6 +1,6 @@
 Bootstrap Responsive Template
 
-Wow portfolio is clean multi purpose HTML5 template suits a profissional designer or developer in IT industry, such as webdesigner, web developr, UX/UI Developer, Programmer’s portfolio. This is a responsive web template you can use for personal portfolio’s websites to showcase your work and CV or Resume template. This template is built on top of Bootstrap html5 css3 which give flexibilty to customeise the theme easly as per the user requirements. 
+Wow portfolio is clean multi purpose HTML5 template suits a profissional designer or developer in IT industry, such as webdesigner, web developr, UX/UI Developer, Programmerï¿½s portfolio. This is a responsive web template you can use for personal portfolioï¿½s websites to showcase your work and CV or Resume template. This template is built on top of Bootstrap html5 css3 which give flexibilty to customeise the theme easly as per the user requirements. 
 
 
 Key features
@@ -19,15 +19,15 @@ Contact Form
 
 Credits :
 -------
-=> Design and developed: "WebThemez"  http://webthemez.com
+=> Design and developed: "ATWish"  http://ATWish.com
 => Photos used in template: **Unsplash** - http://unsplash.com
-=> For more free web themes: http://webthemez.com
+=> For more free web themes: http://ATWish.com
 => Framework : http://getbootstrap.com
 
 Important Note:
 ---------------
 To remove backlink from the template, you need to donate to remove the backlink from the template.
-Any question contact us: webthemez@gmail.com
+Any question contact us: ATWish@gmail.com
 
 
 License :

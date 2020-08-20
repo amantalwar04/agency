@@ -1,5 +1,5 @@
-/* Author:WebThemez
- * Author URI:http://webthemez.com
+/* Author:ATWish
+ * Author URI:http://ATWish.com
  * License: Creative Commons Attribution 3.0 License (https://creativecommons.org/licenses/by/3.0/)
  */
 

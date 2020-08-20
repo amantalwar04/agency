@@ -1,4 +1,4 @@
-Free Responsive HTML5 Bootstrap Template
+﻿Free Responsive HTML5 Bootstrap Template
 
 Ninja business consulting html responsive web template is a best flat clean and modern responsive HTML5 Bootstrap template for corporate consulting business profile. This theme has a elegant modern look, very easy to customize It’s provided with an nice responsive layer slider. This theme is fully responsive build on top of Bootstrap using HTML5 CSS3. Great for Corporate business, consulting office, Agency, portfolio and many more.  
 
@@ -16,11 +16,11 @@ Contact Form
 
 Credits :
 -------
-=> Design and developed: "WebThemez"  http://webthemez.com
+=> Design and developed: "ATWish"  http://ATWish.com
 => Photos used in template: **Unsplash** - http://unsplash.com
-=> For more free web themes: http://webthemez.com
+=> For more free web themes: http://ATWish.com
 => Framework : http://getbootstrap.com
-=> For more help: webthemez@gmail.com
+=> For more help: ATWish@gmail.com
 => Do not remove the back-link from site. If you want remove back-link please donate some bucks.
 
 License :

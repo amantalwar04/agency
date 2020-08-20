@@ -4,7 +4,7 @@ Note
 Line - Free App Landing Page Responsive Web Template
 
 Responsive, Bootstrap Mobile First Web Template 
-Author URI: http://webthemez.com/
+Author URI: http://ATWish.com/
 
 Line is multipurpose landing page designed to showcase your web, mobile app, new products, modules, plugins and other. It is fully responsive and looks awesome on all types of devices (desktop, notebook, tablet and mobile).
 

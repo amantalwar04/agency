@@ -5,13 +5,13 @@ Indus free coming soon bootstrap responsive template is a well designed modern r
 
 Credits :
 -------
-=> Design and developed: "WebThemez"  http://webthemez.com 
-=> For more free web themes: http://webthemez.com 
+=> Design and developed: "ATWish"  http://ATWish.com 
+=> For more free web themes: http://ATWish.com 
 
 Important Note:
 ---------------
 To remove backlink from the template, you need to donate to remove the backlink from the template.
-Any question contact us: webthemez@gmail.com
+Any question contact us: ATWish@gmail.com
 
 
 License :
@@ -26,6 +26,6 @@ License :
 
 - If you wish to remove backlink from the template, you need to donate min USD $10 to remove backlink (credits) form the template
 
-- If you have any question,feel free to contact us at webthemez@gmail.com
+- If you have any question,feel free to contact us at ATWish@gmail.com
 
 - All images user here is for demo purpose only, we are not responsible for any copyrights.

@@ -2,7 +2,7 @@ Note
 ====
 
 Responsive, Bootstrap Mobile First Web Template 
-Author URI: http://webthemez.com/
+Author URI: http://ATWish.com/
 
 Delite is the modern HTML5 web template designed for all the Music, Band, Club, Party, personal portfolio and Consultants out there that need a professional yet modern looking website. This HTML template comes packed with features and enables them to interact easier. This is developed on HTML5, Bootstrap 3.2.0 and fully Responsive site template
 

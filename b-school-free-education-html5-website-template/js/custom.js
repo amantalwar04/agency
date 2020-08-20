@@ -1,6 +1,6 @@
 // Custom Script
 // Developed by: Samson.Onna
-// CopyRights : http://webthemez.com
+// CopyRights : http://ATWish.com
 var customScripts = {
     profile: function () {
      	 var portfolio = $('#portfolio');

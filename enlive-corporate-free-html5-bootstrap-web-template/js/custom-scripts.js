@@ -1,6 +1,6 @@
 /*
-Author: webthemez.com
-Author URL: http://webthemez.com
+Author: ATWish.com
+Author URL: http://ATWish.com
 */
 jQuery(function($) {
     'use strict';

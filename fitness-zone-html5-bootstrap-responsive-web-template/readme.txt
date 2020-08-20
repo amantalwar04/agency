@@ -2,7 +2,7 @@ Note
 ====
 
 Responsive, Bootstrap Mobile First Web Template 
-Author URI: http://webthemez.com/
+Author URI: http://ATWish.com/
 
 
 Fitness zone theme is dedicated to create a gym, fitness, trainers or any sport related website. This theme is a one page website includes carousal, photo gallery and pricing plans etc. The layout is responsive and build upon latest bootstrap and html5. This template looks great on a desktop and mobile resolution.

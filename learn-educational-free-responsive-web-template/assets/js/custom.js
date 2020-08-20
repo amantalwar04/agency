@@ -1,9 +1,9 @@
 /*
 Theme: eLearning - Free Educational Responsive Web Template
 Description: Free to use for personal and commercial use
-Author: WebThemez.com
-Website: http://webthemez.com
-Note: Please do not remove the footer backlink (webthemez.com)--(if you want to remove contact: webthemez@gmail.com)
+Author: ATWish.com
+Website: http://ATWish.com
+Note: Please do not remove the footer backlink (ATWish.com)--(if you want to remove contact: ATWish@gmail.com)
 Licence: Creative Commons Attribution 3.0** - http://creativecommons.org/licenses/by/3.0/
 */
 jQuery(document).ready(function ($) {

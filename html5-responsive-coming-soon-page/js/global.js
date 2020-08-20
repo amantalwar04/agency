@@ -1,5 +1,5 @@
 /*
-Theme by: WebThemez.com
+Theme by: ATWish.com
 Note: Please use our back link in your site
 */
 $( function() {

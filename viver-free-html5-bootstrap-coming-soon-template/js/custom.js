@@ -1,9 +1,9 @@
 // Custom Script
 // Developed by: Samson.Onna
-// CopyRights : http://webthemez.com
+// CopyRights : http://ATWish.com
 
 /*
-Theme by: WebThemez.com
+Theme by: ATWish.com
 Note: donate to remove backlink form the site
 */
 $( function() {

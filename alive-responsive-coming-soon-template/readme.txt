@@ -4,7 +4,7 @@ Note
 alive-Responsive-Coming-Soon-Template
 
 Responsive, Bootstrap Mobile First Web Template 
-Author URI: http://webthemez.com/
+Author URI: http://ATWish.com/
 
 alive is a minimal, responsive, business coming soon / landing page / one page HTML5 template based on Bootstrap 3.2.0. This theme is clean and fast, easy to customize multipurpose, includes Services and Contact form, 400+ Font Awesome icons, custom backgrounds and much more!
 

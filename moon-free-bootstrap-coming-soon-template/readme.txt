@@ -4,7 +4,7 @@ Note
 Moon Free Bootstrap Coming Soon Template
 
 Responsive, Bootstrap Mobile First Web Template 
-Author URI: http://webthemez.com/
+Author URI: http://ATWish.com/
 
 
 Moon is a clean bootstrap comming soon/under construction responsive template. Our coming soon template has a responsive slider, jQuery counter, contact section and navigation. This template is based on HTML5 latest bootstrap framework with mulit browser and device support.  
